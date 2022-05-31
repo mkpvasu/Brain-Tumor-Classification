@@ -1,14 +1,5 @@
 # Brain Tumor Classification through MRIs
 
-CSE 455 Final Project
-
-### Group members:
-
-- Hung-An Chen (hungan)
-- Aditya Nayak (adityamn)
-- Muni Kumar Pridivi Vasu (mkpvasu)
-- Austin Sacro (ajsacro)
-
 ### Description
 
 Brain tumors are one of the most serious illnesses which accounts for 85% to 90% of all primary central nervous system (CNS) tumors. During 2020 alone, it has affected nearly 300,000+ people worldwide according to statistics published by Cancer.net. It is also the 10th leading cause of death for men and women. Early detection and accurate understanding of the intricacies in types of the tumor which helps in curing, providing medication and prevention of the disease in future. The radiologists primarily use Magnetic Resonance Imaging (MRI) to analyze brain tumors. This provides an information about whether the brain is normal or abnormal and further aids in identifying the type of it. The advancements in machine learning and computer vision can give an valuable assistance to the doctors in swiftly and precisely determining the presence and type of tumor.
